@@ -29,7 +29,7 @@ btns.forEach(function(btn){
     }
 
     if (count === 0) {
-        value.style.color ="#222";
+        value.style.color ="#0000FF";
     }
 
     value.textContent = count;
